@@ -1,0 +1,3 @@
+1||60||60||60||60||180||100.8||First2||sujan||60||60||60||180||100.8||First8||Rabin ||60||60||60||180||100.8||First2||sujan||60||60||60||180||100.8||FirstRoll no is:2	||Name is:DDDD		||Marks of Ncc:60	||Marks of cdc:60	||Marks of se:60
+Total:180	||Percentage:100.8	||Division:FirstRoll no is:2	||Name is:SUJAN		||Marks of Ncc:60	||Marks of cdc:60	||Marks of se:60
+Total:180	||Percentage:100.8	||Division:First22||sujan||55||55||55||165||92.4||First2||sujan||22||22||55||99||55.44||Second29||sujann||50||50||50||150||84||First

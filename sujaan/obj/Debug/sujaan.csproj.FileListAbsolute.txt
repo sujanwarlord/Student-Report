@@ -1,0 +1,8 @@
+D:\suuuu\sujaan\sujaan\obj\Debug\sujaan.csproj.AssemblyReference.cache
+D:\suuuu\sujaan\sujaan\obj\Debug\sujaan.csproj.SuggestedBindingRedirects.cache
+D:\suuuu\sujaan\sujaan\obj\Debug\sujaan.csproj.CoreCompileInputs.cache
+D:\suuuu\sujaan\sujaan\bin\Debug\sujaan.exe.config
+D:\suuuu\sujaan\sujaan\bin\Debug\sujaan.exe
+D:\suuuu\sujaan\sujaan\bin\Debug\sujaan.pdb
+D:\suuuu\sujaan\sujaan\obj\Debug\sujaan.exe
+D:\suuuu\sujaan\sujaan\obj\Debug\sujaan.pdb
